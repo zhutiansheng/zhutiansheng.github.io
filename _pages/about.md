@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ORCID: 0000-0002-7335-9087
-Tiansheng received training of biotechnology in Huazhong Agricultural University (HZAU), and learned computer science in Fudan University, China. He worked on data management in the data center Department of Shanghai bioinformatics research center. After that, he was engaged in the construction and management of data platform in Shanghai Academy of Agricultural Sciences. Then, Tiansheng have been worked on proteomic big data science in Westlake University 3 years before he joined in Zhejiang A&F University..
+Tiansheng received training of biotechnology in Huazhong Agricultural University (HZAU), and learned computer science in Fudan University, China. He worked on data management in the data center Department of Shanghai bioinformatics research center. After that, he was engaged in the construction and management of data platform in Shanghai Academy of Agricultural Sciences. Then, Tiansheng have been worked on proteomic big data science in Westlake University 3 years before he joined in Zhejiang A&F University.
 
 Contact
 ======
