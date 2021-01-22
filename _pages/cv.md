@@ -24,6 +24,14 @@ Work experience
 * Since August, 2017: Senior Research Assistant
   * School of life science, Westlake University
   * Duties included: Proteomic big data analysis and mining 
+
+* Since August, 2008: Research Associate
+  * Data Center, Shanghai Center for Bioinformation Technology
+  * Duties included: Data manage, Software Requirements
+  
+* Since June, 2007: 
+  * Shanghai Agrobiological Gene Center (SAGC), Shanghai Academy of Agricultural Sciences (SAAS)
+  * Duties included: Data manage, Demand Analysis  
   
 Skills
 ======
