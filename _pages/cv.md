@@ -21,12 +21,13 @@ Work experience
   * Information Engineering College of Zhejiang A & F
   * Duties included: Teaching; Research in bioinformatics and data science
 
-* Since August, 2017: Research Assistant
+* Since August, 2017: Senior Research Assistant
   * School of life science, Westlake University
   * Duties included: Proteomic big data analysis and mining 
   
 Skills
 ======
+* Bioinformatics
 * Oracle 10G OCP
 * Programming language
   * Java
