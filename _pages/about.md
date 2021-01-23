@@ -14,10 +14,11 @@ Research areas
 ======
 * **Bioinformatics**
 * **Data science**
-* **proteomics**
+* **Software**
+* **Proteomics**
 * **Epigenomics**
 
 Contact
 ======
-* **Email**: zhutiansheng at zafu.edu.cn/tszhu at fudan.edu.cn
+* **Email**: zhutiansheng at zafu.edu.cn / tszhu at fudan.edu.cn
 * **Address**: Room 407, Building 11, College of Information Engineering, Zhejiang A & F University, Hangzhou, China.
