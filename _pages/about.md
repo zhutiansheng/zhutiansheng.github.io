@@ -10,7 +10,14 @@ redirect_from:
 
 Tiansheng received training of biotechnology in Huazhong Agricultural University (HZAU), and learned computer science in Fudan University, China. He worked on data management in the data center Department of Shanghai bioinformatics research center. After that, he was engaged in the construction and management of data platform in Shanghai Academy of Agricultural Sciences. Then, Tiansheng have been worked on proteomic big data science in Westlake University 3 years before he joined in Zhejiang A&F University.
 
+Research areas
+======
+* **Bioinformatics**
+* **Data science**
+* **proteomics**
+* **Epigenomics**
+
 Contact
 ======
-* **Email**:zhutiansheng@zafu.edu.cn/tszhu@fudan.edu.cn
-* **Address**:  Room 407, Building 11, Information Engineering College of Zhejiang A & F University, Hangzhou, China.
+* **Email**: zhutiansheng at zafu.edu.cn/tszhu at fudan.edu.cn
+* **Address**: Room 407, Building 11, College of Information Engineering, Zhejiang A & F University, Hangzhou, China.
