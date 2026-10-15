@@ -7,196 +7,56 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+以科研项目（长期）+竞赛（短期）为目标的培养方式
 
-## Tips and hints
+经过体系化的科研训练，学生的技术能力与学术素养将实现跨越式成长，同步拿下软著、专利、学科竞赛省国奖与学术论文等硬核成果，为后续申请海内外名校、入职行业头部企业筑牢核心竞争力。
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
-## Markdown guide
+# 人工智能相关
+## Python数据分析
+学习基础语法和数据分析相关
 
-### Header three
+[https://www.runoob.com/python3/python3-tutorial.html](https://www.runoob.com/python3/python3-tutorial.html)
 
-#### Header four
+python解释器：建议安装anaconda的，省去安装很多包的麻烦[https://www.anaconda.com/download](https://www.anaconda.com/download)
 
-##### Header five
+编程工具首选[jupyter-notebook](https://www.runoob.com/jupyter-notebook/jupyter-notebook-tutorial.html)
 
-###### Header six
+[https://www.runoob.com/jupyter-notebook/jupyter-notebook-tutorial.html](https://www.runoob.com/jupyter-notebook/jupyter-notebook-tutorial.html)
 
-## Blockquotes
+[https://www.runoob.com/pycharm/pycharm-tutorial.html](https://www.runoob.com/pycharm/pycharm-tutorial.html)
 
-Single line blockquote:
+## 机器学习
+动手学机器学习：[https://hml.boyuai.com/books/chapter1/](https://hml.boyuai.com/books/chapter1/)
 
-> Quotes are cool.
+[https://www.runoob.com/ml/ml-tutorial.html](https://www.runoob.com/ml/ml-tutorial.html)
 
-## Tables
+## 深度学习
+动手学深度学习：[https://zh-v2.d2l.ai/](https://zh-v2.d2l.ai/)
 
-### Table 1
+【PyTorch深度学习快速入门教程（绝对通俗易懂！）【小土堆】】 [https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web](https://www.bilibili.com/video/BV1hE411t7RN/?share_source=copy_web)
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+[https://www.runoob.com/pytorch/pytorch-tutorial.html](https://www.runoob.com/pytorch/pytorch-tutorial.html)
 
-### Table 2
+Linux
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+B站资料很多，学习简单的常用命令即可，会安装卸载软件，传输文件，允许程序
 
-## Definition Lists
 
-Definition List Title
-:   Definition list division.
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+人工智能进阶
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+高引论文：[https://github.com/terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+论文代码复现：[https://paperswithcode.com/](https://paperswithcode.com/)
 
-## Unordered Lists (Nested)
+# 科研相关
+查文献
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+知网（[https://www.cnki.net/](https://www.cnki.net/)），pubmed（[https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/)），Google Scholar（[https://scholar.google.com/](https://scholar.google.com/)）
 
-## Ordered List (Nested)
+写论文工具
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+Endnote
