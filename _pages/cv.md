@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * Since January, 2021: Lecturer
-  * Information Engineering College of Zhejiang A & F
-  * Duties included: Teaching; Research in bioinformatics and data science
+  * College of Artificial Intelligence Zhejiang A & F
+  * Duties included: Teaching; Research in bioinformatics and AI
 
 * Since August, 2017: Senior Research Assistant
   * School of life science, Westlake University
@@ -35,6 +35,8 @@ Work experience
   
 Skills
 ======
+* AI
+* Data analysis
 * Bioinformatics
 * Oracle 10G OCP
 * Programming language
