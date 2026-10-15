@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## The performance of outstanding students during their school years
-###Discipline competition
+### Discipline competition
 
-###Scientific research
+### Scientific research
 
 ## Post-graduation destination
 
