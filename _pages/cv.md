@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in College of Plant Science & Technology, Huazhong Agricultural University, 2000
+* B.S. in College of Plant Science & Technology, Huazhong Agricultural University, 2004
 * M.S. in College of Plant Science & Technology, Huazhong Agricultural University, 2007
 * Ph.D in School of Computer Science, Fudan University, 2020
 
